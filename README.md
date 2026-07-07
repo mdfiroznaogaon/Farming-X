@@ -65,7 +65,8 @@ This is a **Premium, Closed-Source Automation Tool**. To purchase a license, vie
 
 * 💬 **Telegram:** [@veogenxelite](https://t.me/@Veogenx)
 * 📱 **WhatsApp:** [+8801752457161](https://wa.me/8801752457161)
-
+* 📧 **Email:** [mdfiroznaogaon@gmail.com]
+* 🌐 **Website/Portfolio:** [https://veogenx.com/](https://veogenx.com/)
 
 > **Note:** We provide the self-modified lightweight emulator along with the software. Full setup support and updates are provided for premium clients.
 
@@ -73,3 +74,7 @@ This is a **Premium, Closed-Source Automation Tool**. To purchase a license, vie
 <div align="center">
   <i>Copyright © FB FARMING-X. All Rights Reserved.</i>
 </div>
+
+
+> **Note:** We provide the self-modified lightweight emulator along with the software. Full setup support and updates are provided for premium clients.
+
